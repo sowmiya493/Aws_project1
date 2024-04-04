@@ -1,7 +1,9 @@
-# Aws_project1
-# Product Management System
+# Product-AWS
 
-This is a simple product management system built using AWS Lambda, DynamoDB, and an HTML interface.
+
+# Serverless web application
+
+This is a  Serverless web application built using AWS Lambda, DynamoDB, and an HTML interface.
 
 ## Features
 
